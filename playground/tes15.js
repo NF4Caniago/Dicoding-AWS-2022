@@ -30,4 +30,5 @@ class NetworkError extends Error {
         return rejectedReason;
     }
   };
+  
   gettingUserName();

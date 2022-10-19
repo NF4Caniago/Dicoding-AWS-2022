@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NF4Caniago/Dicoding-AWS-2022/issues"
   },
-  "homepage": "https://github.com/NF4Caniago/Dicoding-AWS-2022#readme"
+  "homepage": "https://github.com/NF4Caniago/Dicoding-AWS-2022#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
